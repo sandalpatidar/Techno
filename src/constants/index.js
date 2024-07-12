@@ -95,7 +95,7 @@ export const roadmap = [
   {
     id: "0",
     title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
+    text: "Empower voice-activated functionality, allowing users to effortlessly engage with the app using voice commands, promoting hands-free convenience and accessibility.",
     date: "May 2023",
     status: "done",
     imageUrl: roadmap1,
@@ -104,7 +104,7 @@ export const roadmap = [
   {
     id: "1",
     title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
+    text: "Enhance user engagement by integrating gamification strategies, including leaderboards and rewards, to incentivize frequent interactions with the chatbot.",
     date: "May 2023",
     status: "progress",
     imageUrl: roadmap2,
@@ -112,7 +112,7 @@ export const roadmap = [
   {
     id: "2",
     title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
+    text: "Allow users to put their personal touch on the chatbot's appearance and personality, making interactions more enjoyable, engaging, and tailored to individual preferences.",
     date: "May 2023",
     status: "done",
     imageUrl: roadmap3,
@@ -120,7 +120,7 @@ export const roadmap = [
   {
     id: "3",
     title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
+    text: "Amplify the chatbot's intelligence by linking it to external data sources, enabling it to provide users with data-driven recommendations and insights that are both relevant and useful.",
     date: "May 2023",
     status: "progress",
     imageUrl: roadmap4,
@@ -128,7 +128,7 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "Streamline team productivity with intelligent automation and robust security, enabling smarter collaboration and workflow optimization.";
 
 export const collabContent = [
   {
